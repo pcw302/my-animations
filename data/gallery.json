@@ -1,0 +1,32 @@
+[
+  {
+    "type": "video",
+    "title": "Early Base",
+    "youtubeId": "83rbJ-TV-Ww",
+    "description": "Initial animation from the tutorial."
+  },
+  {
+    "type": "video",
+    "title": "Planets Final Cut",
+    "youtubeId": "-LzqKwdt2J4",
+    "description": "Final animation with changes."
+  },
+  {
+    "type": "image",
+    "title": "Added Star Background",
+    "file": "/Rendered_Images/Early.0001.gif",
+    "description": "Added a background picture to give it more of a space feel."
+  },
+  {
+    "type": "image",
+    "title": "Planet Textures",
+    "file": "/Rendered_Images/1-image_with_textures-preview.jpg",
+    "description": "Added actual planet textures using color maps."
+  },
+  {
+    "type": "image",
+    "title": "Kaboom",
+    "file": "/Rendered_Images/2-Kaboom-preview.jpg",
+    "description": "Pretty self explanatory..."
+  }
+]
