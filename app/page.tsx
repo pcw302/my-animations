@@ -56,7 +56,7 @@ export default function Home() {
         <section id="about-me" className="text-center text-gray-200 mb-12">
           <h2 className="text-3xl font-bold mb-4">About Me</h2>
           <p className="mb-2">
-            My name is Parker White,I am a data science major and cs minor at the College of William and Mary.
+            My name is Parker White, I am a data science major and cs minor at the College of William and Mary.
             I have never been artistically inclined, but I am looking forward to filling this page 
             throughout the semester!
           </p>
