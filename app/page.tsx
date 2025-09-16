@@ -8,7 +8,7 @@ export default function Home() {
       <div className="twinkling"></div>
 
       <div className="relative z-10">
-        <h1 className="text-4xl font-bold text-center mb-6">☀️ Parker's Animation Locker ★</h1>
+        <h1 className="text-4xl font-bold text-center mb-6">☀️ Parker&apos;s Animation Locker ★</h1>
         <p className="text-center text-gray-200 mb-6">
           CSCI 417 Animations!
         </p>
