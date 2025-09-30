@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link"; // <-- import Link
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 
@@ -29,8 +30,8 @@ export default function RootLayout({
         <div className="twinkling"></div>
 
         <nav className="absolute top-4 left-1/2 transform -translate-x-1/2 flex gap-6 z-10 bg-gray-900/70 px-6 py-2 rounded-xl shadow-md">
-          <a href="/" className="hover:underline">Project 1</a>
-          <a href="/project2" className="hover:underline">Project 2</a>
+          <Link href="/" className="hover:underline">Project 1</Link>
+          <Link href="/project2" className="hover:underline">Project 2</Link>
         </nav>
 
         {children}
