@@ -4,8 +4,7 @@ import "../../app/globals.css";
 export default function Project2() {
   return (
     <main className="font-sans p-8 max-w-5xl mx-auto min-h-screen relative overflow-hidden text-white bg-black">
-      <div className="stars"></div>
-      <div className="twinkling"></div>
+      
 
       <div className="relative z-10">
         <h1 className="text-4xl font-bold text-center mb-6">
