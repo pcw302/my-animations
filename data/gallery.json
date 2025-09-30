@@ -28,5 +28,25 @@
     "title": "Kaboom",
     "file": "/Rendered_Images/2-Kaboom-preview.jpg",
     "description": "Pretty self explanatory..."
+
+  },
+  {
+    "type": "video",
+    "title": "TREASURE!",
+    "youtubeId": "Ni_YYggLva0",
+    "description": "So you have found a treasure chest..."
+  },
+  {
+    "type": "image",
+    "title": "Treasure Chest",
+    "file": "/Rendered_Images/Good Render.jpg",
+    "description": "A treasure chest filled ???"
+  },
+  {
+    "type": "image",
+    "title": "Reference Image",
+    "file": "/Rendered_Images/Treasure Chest Reference.jpg ",
+    "description": "Reference image used to model."
   }
+  
 ]

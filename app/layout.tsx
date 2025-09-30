@@ -26,12 +26,15 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased relative`}
       >
         <div className="stars"></div>
-<div className="twinkling"></div>
+        <div className="twinkling"></div>
 
+        <nav className="absolute top-4 left-1/2 transform -translate-x-1/2 flex gap-6 z-10 bg-gray-900/70 px-6 py-2 rounded-xl shadow-md">
+          <a href="/" className="hover:underline">Project 1</a>
+          <a href="/project2" className="hover:underline">Project 2</a>
+        </nav>
 
         {children}
       </body>
     </html>
   );
 }
-
