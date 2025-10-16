@@ -47,6 +47,23 @@
     "title": "Reference Image",
     "file": "/Rendered_Images/Treasure Chest Reference.jpg ",
     "description": "Reference image used to model."
+  },
+
+  {
+
+    "type": "image",
+    "title": "Storyboard",
+    "file": "/Rendered_Images/Bouncing Ball Storyboard.pdf ",
+    "description": "Storyboard for the animation, some slight creative liberties where taken.."
+  },
+
+  {
+    "type": "video",
+    "title": "Bouncing Ball",
+    "youtubeId": "36zkwti3joE ",
+    "description": "Kind of scuffed, ran out of time. 3 Animation priciples are squash and stretch, ancipation and arcs. \nSquash and stretch can be seen when the balls collide with eachother at the top and very breifly as they move through the air. \nAnticipation is shown when the red ball backs up to prepare to hit the green. \nArcs are shown in the movement of the green ball on and off the hill."
   }
+
+
   
 ]
