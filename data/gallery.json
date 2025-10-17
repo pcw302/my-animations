@@ -62,6 +62,18 @@
     "title": "Bouncing Ball",
     "youtubeId": "36zkwti3joE ",
     "description": "Kind of scuffed, ran out of time. 3 Animation priciples are squash and stretch, ancipation and arcs. \nSquash and stretch can be seen when the balls collide with eachother at the top and very breifly as they move through the air. \nAnticipation is shown when the red ball backs up to prepare to hit the green. \nArcs are shown in the movement of the green ball on and off the hill."
+  },
+  {
+    "type": "image",
+    "title": "Arc Principle and Squash and Stretch Principle",
+    "file": "/Rendered_Images/Squash Image.jpg",
+    "description": "Shows the Arc movement that the green ball follows. Created using a 3 point curve tool.\n It also shows the squashing of the red ball as it makes contact with the green ball."
+  },
+  {
+    "type": "image",
+    "title": "Anticipation Principle",
+    "file": "/Rendered_Images/Arc Image.jpg",
+    "description": "Shows the anticipation movement of the red ball as it prepares to hit the green ball."
   }
 
 
