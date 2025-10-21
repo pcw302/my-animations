@@ -74,6 +74,12 @@
     "title": "Anticipation Principle",
     "file": "/Rendered_Images/Arc Image.jpg",
     "description": "Shows the anticipation movement of the red ball as it prepares to hit the green ball."
+  },
+  {
+    "type": "video",
+    "title": "HD Render",
+    "youtubeId": "r1Ny2OaQx1Y",
+    "description": "The HD rendering of the bouncing ball animation. Sequenced rendered with Arnold renderer at 1080p, then stitched together using ffmpeg in WSL."
   }
 
 
