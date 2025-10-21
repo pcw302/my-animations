@@ -76,6 +76,18 @@
     "description": "Shows the anticipation movement of the red ball as it prepares to hit the green ball."
   },
   {
+    "type": "image",
+    "title": "Still Image 1",
+    "file": "/Rendered_Images/Still Image 1.jpg",
+    "description": ""
+  },
+  {
+    "type": "image",
+    "title": "Still Image 2",
+    "file": "/Rendered_Images/Still Image 2.jpg",
+    "description": ""
+  },
+  {
     "type": "video",
     "title": "HD Render",
     "youtubeId": "r1Ny2OaQx1Y",
