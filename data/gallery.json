@@ -92,6 +92,49 @@
     "title": "HD Render",
     "youtubeId": "r1Ny2OaQx1Y",
     "description": "The HD rendering of the bouncing ball animation. Sequenced rendered with Arnold renderer at 1080p, then stitched together using ffmpeg in WSL."
+  },
+  {
+    "type": "video",
+    "title": "Rue Goldbuerg Machine",
+    "youtubeId": "EbnMJS9b5q0",
+    "description": "HD render, No idea why the cheese wheel is that blocky, does not look like that in maya."
+  }
+,
+{
+    "type": "image",
+    "title": "Object 1: Marble",
+    "file": "/Rendered_Images/Marble.png",
+    "description": "First Object using marble texture from maya."
+},
+{
+    "type": "image ",
+    "title": "Object 2: Cheese Wheel",
+    "file": "/Rendered_Images/Cheese_Wheel.png",
+    "description": "Closeup of the cheese wheel texture, see its way rounder here."
+},
+{
+    "type": "image",
+    "title": "Object 3: Dominios",
+    "file": "/Rendered_Images/Dominos.png",
+    "description": "Trust me they are dominos."
+},
+{
+    "type": "image",
+    "title": "Object 4: Wrecking Ball",
+    "file": "/Rendered_Images/Wrecking_Ball.png",
+    "description": "Closeup of the wrecking ball."
+},
+{
+    "type": "image",
+    "title": "Object 5: Bomb Guy",
+    "file": "/Rendered_Images/Bomb Guy.png",
+    "description": "This is not my doing at all, all credit to https://www.turbosquid.com/3d-models/free-low-poly-character-3d-model/742463"
+},
+{
+    "type": "image",
+    "title": "Storyboard",
+    "file": "/Rendered_Images/RGBM Storyboard.pdf",
+    "description": "Storyboard for the animation."
   }
 
 
