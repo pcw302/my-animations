@@ -36,6 +36,12 @@ export default function Home() {
                     allowFullScreen
                     className="w-full h-full"
                   ></iframe>
+                ) : item.type === "pdf" ? (
+                  <embed
+                    src={item.file}
+                    type="application/pdf"
+                    className="w-full h-full"
+                  />
                 ) : (
                   <img
                     src={item.file}
