@@ -135,8 +135,17 @@
     "title": "Storyboard",
     "file": "/Rendered_Images/RGBM StoryBoard.pdf",
     "description": "Storyboard for the animation."
+  },
+  {
+    "type": "video",
+    "title": "Domino Animation",
+    "youtubeId": "Os1PBlwXH1M",
+    "description": "Animation of falling dominos created with python script."
+  },
+  {
+    "type": "image",
+    "title": "Reference Image for Dominos",
+    "file": "/Rendered_Images/download (1).jpg",
+    "description": "This is the image mapped onto the dominos"
   }
-
-
-  
 ]
