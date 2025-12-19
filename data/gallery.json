@@ -147,5 +147,17 @@
     "title": "Reference Image for Dominos",
     "file": "/Rendered_Images/download (1).jpg",
     "description": "This is the image mapped onto the dominos"
+  },
+  {
+    "type": "video",
+    "title": "Final",
+    "youtubeId": "clT_pq04XhI",
+    "description": "Final Project based on the legend of the Empty Fort Strategy from the Romance of the Three Kingdoms."
+  },
+  {
+    "type": "image",
+    "title": "Storyboard for Final Project",
+    "file": "/Rendered_Images/Final Storyboard.jpg",
+    "description": "Storyboard for the final project animation."
   }
 ]
